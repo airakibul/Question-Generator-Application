@@ -82,8 +82,21 @@ python app.py
 
 ## Project Structure
 
-<pre> ```text ## Project Structure ├── data ├── Research │ └── expriement.ipynb ├── src │ ├── __init__.py │ ├── helper.py │ └── prompt.py ├── templates │ └── index.html ├── static ├── app.py ├── setup.py └── requirements.txt ``` </pre>
-
+```text
+├── data
+├── Research
+│   └── expriement.ipynb
+├── src
+│   ├── __init__.py
+│   ├── helper.py
+│   └── prompt.py
+├── templates
+│   └── index.html
+├── static
+├── app.py
+├── setup.py
+└── requirements.txt
+```
 
 ## Features in Detail
 
