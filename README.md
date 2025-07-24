@@ -1,12 +1,10 @@
 # Question-Generator-Application
----
 
 A powerful tool built with LangChain, FastAPI, and modern NLP techniques that allows users to upload PDF files and automatically generate relevant questions and answers based on the document content. Users can view the PDF and download the generated Q&A pairs as a CSV file.
 
 ---
 
 ## 🚀 Features
----
 
 - 📁 PDF Upload – Easily upload any PDF file
 - 📄 PDF Viewer – View the uploaded PDF within the app
@@ -18,7 +16,6 @@ A powerful tool built with LangChain, FastAPI, and modern NLP techniques that al
 ---
 
 ## 🛠️ Technology Stack
----
 
 - **Framework**: LangChain 
 - **Frontend**: FastAPI 
@@ -31,7 +28,6 @@ A powerful tool built with LangChain, FastAPI, and modern NLP techniques that al
 ---
 
 ## 📋 Prerequisites
----
 
 - Python 3.10+  
 - Openrouter API key  
@@ -39,7 +35,6 @@ A powerful tool built with LangChain, FastAPI, and modern NLP techniques that al
 ---
 
 ## ⚙️ Installation
----
 
 1. Create an environment
 
@@ -69,7 +64,6 @@ pip install -r requirements.txt
 ---
 
 ## Usage
----
 
 1. Start the application
 
@@ -87,26 +81,11 @@ python app.py
 ---
 
 ## Project Structure
----
 
-├── data
-├── Research
-│   └──expriement.ipynb
-├── src
-│   ├── __init__.py
-│   ├── helper.py
-│   └── prompt.py
-├── templates
-│   └──index.html
-├── static
-├── app.py
-├── setup.py
-└── requirements.txt
+<pre> ```text ## Project Structure ├── data ├── Research │ └── expriement.ipynb ├── src │ ├── __init__.py │ ├── helper.py │ └── prompt.py ├── templates │ └── index.html ├── static ├── app.py ├── setup.py └── requirements.txt ``` </pre>
 
----
 
 ## Features in Detail
----
 
 - 📁 PDF Upload & Viewing: Upload and preview PDF files directly in the app.
 
@@ -127,7 +106,7 @@ python app.py
 ---
 
 ## Contributing
----
+
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
