@@ -39,13 +39,20 @@ A powerful tool built with LangChain, FastAPI, and modern NLP techniques that al
 1. Create an environment
 
 ```bash
+git clone https://github.com/airakibul/Question-Generator-Application.git
+
+```
+
+2. Create an environment
+
+```bash
 conda create -n interview python=3.10 -y
 
 conda activate interview
 
 ```
 
-2. Create a .env file and add your API key from OpenRouter
+3. Create a .env file and add your API key from OpenRouter
 
 ```bash
 
@@ -53,7 +60,7 @@ OPENROUTER_API_KEY = "paste your api key"
 
 ```
 
-3. install requirements
+4. install requirements
 
 ```bash
 
@@ -97,6 +104,7 @@ python app.py
 ├── setup.py
 └── requirements.txt
 ```
+---
 
 ## Features in Detail
 
@@ -123,3 +131,13 @@ python app.py
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
+
+## Screenshots
+
+1. Frontend
+
+![App Screenshot](screenshoots/Screenshot1.png)
+
+2. CSV file
+
+![App Screenshot](screenshoots/Screenshot2.png)
