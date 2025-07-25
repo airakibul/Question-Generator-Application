@@ -36,7 +36,7 @@ A powerful tool built with LangChain, FastAPI, and modern NLP techniques that al
 
 ## ⚙️ Installation
 
-1. Create an environment
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/airakibul/Question-Generator-Application.git
