@@ -136,8 +136,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Frontend
 
-![App Screenshot](screenshoots/Screenshot1.png)
+![App Screenshot](https://github.com/airakibul/Question-Generator-Application/blob/main/screenshots/Screenshot1.png)
 
 2. CSV file
 
-![App Screenshot](screenshoots/Screenshot2.png)
+![App Screenshot](https://github.com/airakibul/Question-Generator-Application/blob/main/screenshots/Screenshot2.png)
